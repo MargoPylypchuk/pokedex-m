@@ -1,0 +1,41 @@
+.page{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.pagination{
+    width: 600px;
+    height: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.page-item{
+    width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    color: #FFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page-link{
+    color: #FFFF;
+}
+.page{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    margin-left: 200px;
+}
+.page-it{
+    width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    color: #FFFF;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

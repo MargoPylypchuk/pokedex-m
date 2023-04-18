@@ -1,0 +1,53 @@
+.Stats {
+  color: aliceblue;
+}
+/* .st{
+    border-radius: 15px;
+} */
+.stat-name {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
+}
+.stat{
+    border: 1px solid rgb(84, 81, 81);
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.base{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+.base-stat{
+    width: 230px;
+    display: flex;
+    justify-content: space-around;
+}
+.stat-ef{
+    width: 220px;
+    display: flex;
+    justify-content: space-around;
+}
+.effort{
+    padding-left: 120px;
+    color: rgb(255, 247, 18);
+}
+.base-st{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(238, 101, 16);
+    margin-left: 90px;
+    color:#FFFF;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,30 @@
+.tabBar {
+  width: 750px;
+  height: 400px;
+  margin-top: 30px;
+  /* border: 1px solid gray; */
+}
+.tab-b {
+  width: 250px;
+  height: 70px;
+  border: 1px solid rgb(19, 18, 18);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 140%;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.tab-button {
+  border-radius: 10px;
+  width: 750px;
+  height: 70px;
+  display: flex;
+  background-color: rgb(48, 46, 46);
+  /* border: 1px solid black; */
+  margin-bottom: 15px;
+}

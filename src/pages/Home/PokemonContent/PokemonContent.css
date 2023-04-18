@@ -1,0 +1,25 @@
+
+.Pokemon{
+    color:aliceblue;
+    width: 400px;
+    height: 70px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-transform: uppercase;
+    flex-direction: row-reverse;
+    padding-right: 10px;
+}
+.about{
+    /* width: 150px; */
+    display: flex;
+    align-items: center;
+}
+.ph{
+    width: auto;
+    height: 50px;
+}
+.about-block{
+    display: flex;
+}
